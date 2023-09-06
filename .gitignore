@@ -1,0 +1,2 @@
+*.[oa]# ignore any files ending in ".o" or “".a"
+*~ # ignore all files whose names end with a tilde (~)
